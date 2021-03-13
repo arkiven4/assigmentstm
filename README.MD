@@ -1,2 +1,2 @@
 ![alt text](https://user-images.githubusercontent.com/56885763/111027514-56357d80-8423-11eb-9935-d71538eebca4.png)
-![alt text](https://raw.githubusercontent.com/arkiven4/thirdkicard/main/Fourth.png)
+![alt text](https://user-images.githubusercontent.com/56885763/111027689-6ac64580-8424-11eb-8840-a48850da1a39.png)
