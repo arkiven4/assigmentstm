@@ -1,9 +1,0 @@
-<map id="THD_FUNCTION" name="THD_FUNCTION">
-<area shape="rect" id="node1" title="Shell thread function." alt="" coords="5,132,132,159"/>
-<area shape="rect" id="node2" href="$group__SHELL.html#gacc0dc2c6878e7839084aaef24a3743a5" title=" " alt="" coords="207,5,274,32"/>
-<area shape="rect" id="node3" href="$group__SHELL.html#gab9c1029552babd15158af3900bccafc6" title=" " alt="" coords="201,56,281,83"/>
-<area shape="rect" id="node4" href="$group__SHELL.html#gaf16743e1189255747b9c6cbad081ed05" title=" " alt="" coords="180,107,301,133"/>
-<area shape="rect" id="node5" href="$group__SHELL.html#ga9dde095294784d8cb0ef7516201a9ef9" title="Terminates the shell." alt="" coords="201,157,280,184"/>
-<area shape="rect" id="node6" href="$group__SHELL.html#gacfc239048afeeaa83a640b60cef059cf" title="Reads a whole line from the input channel." alt="" coords="189,208,292,235"/>
-<area shape="rect" id="node7" href="$group__SHELL.html#ga1fcaef163a1c96669242391c4cceacd9" title=" " alt="" coords="210,259,271,285"/>
-</map>
